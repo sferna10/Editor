@@ -30,8 +30,8 @@ It requires npm, express.js installed.
 When you access the app, you will see an initial screen:
 
 ## License 
-    
-        This project is licensed under the MIT license.
+
+N/A
 
 ## Contributing
 
